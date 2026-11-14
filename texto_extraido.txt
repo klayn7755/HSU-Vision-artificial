@@ -1,0 +1,12 @@
+Lorem Ipsum es simplemente el texto de relleno de las imprentas
+y archivos de texto. Lorem Ipsum ha sido el texto de relleno
+estandar de las industrias desde el afio 1500, cuando un impresor
+(N. del T. persona que se dedica a la imprenta) desconocido us6
+una galeria de textos y los mezclé de tal manera que logré hacer
+un libro de textos especimen. No sdlo sobrevivid 500 afios, sino
+que tambien ingresO6 como texto de relleno en documentos
+electrénicos, quedando esencialmente igual al original. Fue
+popularizado en los 60s con la creaci6n de las hojas "Letraset", las
+cuales contenian pasajes de Lorem Ipsum, y mas recientemente
+con software de autoedicién, como por ejemplo Aldus PageMaker,
+el cual incluye versiones de Lorem Ipsum.
