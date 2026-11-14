@@ -1,6 +1,6 @@
 import time
 import serial
-ser = serial.Serial("/dev/ttyUSB0", baudrate=9600) 
+ser = serial.Serial("/dev/ttyUSB1", baudrate=9600) 
 try:
     while True:
         comando = input("Ingresar comando (on/off): ")
